@@ -1,0 +1,27 @@
+{
+  "name": "centre",
+  "description": "The web game based on HTML5 Canvas",
+  "main": "index.js",
+  "authors": [
+    "ChalkPE"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "centre",
+    "canvas",
+    "game"
+  ],
+  "homepage": "https://github.com/ChalkPE/centre#readme",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "EaselJS": "^0.8.2",
+    "jquery": "^3.1.1",
+    "vue": "^2.1.6"
+  }
+}
